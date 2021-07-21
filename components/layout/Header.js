@@ -3,7 +3,7 @@ import { useState } from 'react'
 
 import Link from '/components/Link'
 import { useRouter } from 'next/router'
-import Image from 'next/Image'
+import Image from 'next/image'
 
 import { makeStyles, useTheme } from '@material-ui/core/styles'
 import useMediaQuery from '@material-ui/core/useMediaQuery'
